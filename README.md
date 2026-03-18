@@ -1,16 +1,13 @@
 <div align="center">
   <img src="https://cdn.prod.website-files.com/628dd7013e322cea7c23e338/64351e23c8a0330761679b5e_Peakcoachingzwart.png" alt="PEAK Coaching" width="260" />
   <br /><br />
-  <p><strong>Premium personal coaching for entrepreneurs and executives across Belgium.</strong></p>
-  <p>
-    <a href="https://peak.be">Website</a> &nbsp;·&nbsp;
-    <a href="https://app.peak.be">App</a> &nbsp;·&nbsp;
-    <a href="mailto:info@peak.be">Contact</a>
-  </p>
-  <br />
+  <strong>Premium personal coaching for entrepreneurs and executives across Belgium.</strong>
+  <br /><br />
+  <a href="https://peak.be">Website</a> &nbsp;·&nbsp;
+  <a href="https://app.peak.be">App</a> &nbsp;·&nbsp;
+  <a href="mailto:info@peak.be">Contact</a>
+  <br /><br />
 </div>
-
----
 
 ## Who We Are
 
@@ -18,7 +15,7 @@ PEAK connects high-performing professionals with certified personal coaches who 
 
 We believe physical and mental performance are inseparable. PEAK was built for people who take both seriously.
 
----
+<br />
 
 ## What We Offer
 
@@ -30,7 +27,7 @@ We believe physical and mental performance are inseparable. PEAK was built for p
 | 🎓 | **PEAK Academy** | Continuous education and professional development for our coach network |
 | 🤝 | **PEAK Social Club** | A curated community built around performance and wellbeing |
 
----
+<br />
 
 ## Our Reach
 
@@ -38,7 +35,7 @@ PEAK operates across Belgium, with clients and coaches in:
 
 > Ghent · Antwerp · Brussels · Leuven · Mechelen · Knokke-Heist · Bruges · Waregem · Deinze · Kortenberg · Grimbergen · Halle · and more
 
----
+<br />
 
 ## Tech Stack
 
@@ -56,13 +53,13 @@ Our engineering focuses on making the coaching experience seamless — for both 
 | Documentation | Notion |
 | Payments | Mollie, Exact |
 
----
+<br />
 
 ## This Organisation
 
 This GitHub organisation hosts the internal tooling, automations, and integrations that power PEAK's operations — from sales workflows and coach management to client retention systems and AI-powered coaching intelligence.
 
----
+<br />
 
 <div align="center">
   <sub>Built with care in Belgium &nbsp;🇧🇪</sub>
