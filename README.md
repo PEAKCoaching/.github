@@ -1,48 +1,69 @@
-# PEAK Coaching
-
-**Premium personal training for entrepreneurs and executives in Belgium.**
-
-PEAK connects high-performing professionals with expert personal coaches who come directly to their home or office. Clients manage everything — scheduling, communication, and progress tracking — through the PEAK app.
-
----
-
-## What We Do
-
-We believe that physical and mental performance are inseparable. PEAK was built for people who take both seriously.
-
-- **At-home coaching** — certified coaches come to you, wherever you are
-- **PEAK App** — book sessions, sync your calendar, track progress, and stay in contact with your coach
-- **Health coaching** — personalised guidance beyond the workout
-- **PEAK Academy** — continuous education and development for our coaches
-- **PEAK Social Club** — a community built around performance and wellbeing
+<div align="center">
+  <img src="https://cdn.prod.website-files.com/628dd7013e322cea7c23e338/64351e23c8a0330761679b5e_Peakcoachingzwart.png" alt="PEAK Coaching" width="260" />
+  <br /><br />
+  <p><strong>Premium personal coaching for entrepreneurs and executives across Belgium.</strong></p>
+  <p>
+    <a href="https://peak.be">Website</a> &nbsp;·&nbsp;
+    <a href="https://peak.be/app">App</a> &nbsp;·&nbsp;
+    <a href="mailto:hello@peak.be">Contact</a>
+  </p>
+  <br />
+</div>
 
 ---
 
-## Our Tech Stack
+## Who We Are
 
-Our engineering efforts focus on making the coaching experience seamless for both clients and coaches.
+PEAK connects high-performing professionals with certified personal coaches who come directly to their home or office — anywhere in Belgium. From Ghent to Knokke, Antwerp to Leuven, our coaches meet clients where they are.
 
-| Layer | Tools |
+We believe physical and mental performance are inseparable. PEAK was built for people who take both seriously.
+
+---
+
+## What We Offer
+
+| | Service | Description |
+|---|---|---|
+| 🏠 | **At-home coaching** | Certified coaches come to you — at home, at the office, or wherever you train |
+| 📱 | **PEAK App** | Book sessions, sync your calendar, track progress, and stay connected with your coach |
+| 🧠 | **Health coaching** | Personalised guidance that goes beyond the workout |
+| 🎓 | **PEAK Academy** | Continuous education and professional development for our coach network |
+| 🤝 | **PEAK Social Club** | A curated community built around performance and wellbeing |
+
+---
+
+## Our Reach
+
+PEAK operates across Belgium, with clients and coaches in:
+
+> Ghent · Antwerp · Brussels · Leuven · Mechelen · Knokke-Heist · Bruges · Waregem · Deinze · Kortenberg · Grimbergen · Halle · and more
+
+---
+
+## Tech Stack
+
+Our engineering focuses on making the coaching experience seamless — for both clients and coaches.
+
+| Layer | Stack |
 |---|---|
 | App & Platform | Native mobile app, Bothrs |
 | CRM & Sales | HubSpot |
 | Automation | n8n |
 | Analytics | Mixpanel, Lightdash |
 | Communication | Slack |
-| AI | Claude API (Anthropic) |
+| AI | Claude (Anthropic) |
 | Meeting Intelligence | Fireflies |
 | Documentation | Notion |
 | Payments | Mollie, Exact |
 
 ---
 
-## Repositories
+## This Organisation
 
-This organisation hosts the internal tooling, automations, and integrations that power PEAK's operations — from sales workflows to coach management and client retention systems.
+This GitHub organisation hosts the internal tooling, automations, and integrations that power PEAK's operations — from sales workflows and coach management to client retention systems and AI-powered coaching intelligence.
 
 ---
 
-## Contact
-
-- **Website:** [peak-coaching.be](https://peak-coaching.be)
-- **Based in:** Belgium
+<div align="center">
+  <sub>Built with care in Belgium &nbsp;🇧🇪</sub>
+</div>
