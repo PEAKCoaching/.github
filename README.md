@@ -4,8 +4,8 @@
   <p><strong>Premium personal coaching for entrepreneurs and executives across Belgium.</strong></p>
   <p>
     <a href="https://peak.be">Website</a> &nbsp;·&nbsp;
-    <a href="https://peak.be/app">App</a> &nbsp;·&nbsp;
-    <a href="mailto:hello@peak.be">Contact</a>
+    <a href="https://app.peak.be">App</a> &nbsp;·&nbsp;
+    <a href="mailto:info@peak.be">Contact</a>
   </p>
   <br />
 </div>
